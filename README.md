@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Sumeet138/Sumeet138/blob/main/gitbaner.png?raw=true)
 # 💫 About Me:
 
-I am a passionate Mobile App Developer also a Frontend Web Developer carrying experience in UI/UX desinging.<br><br>
+I am a Full Stack Web Developer and Moblie App Developer.<br><br>
 
 ## 🌐 Socials:
 
