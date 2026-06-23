@@ -1,7 +1,8 @@
 ![Banner](https://github.com/Sumeet138/Sumeet138/blob/main/gitbaner.png?raw=true)
 # 💫 About Me:
 
-I am a Full Stack Web Developer and Moblie App Developer.<br><br>
+A Full Stack Engineer and Gen AI Engineer, 10x National Hackathon Winner, who delivers fast, scalable and shipping production ready solutions.
+Proven track record of bridging the gap between research-driven architecture and high-fidelity UI/UX<br><br>
 
 ## 🌐 Socials:
 
